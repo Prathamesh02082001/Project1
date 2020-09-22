@@ -1,2 +1,2 @@
 # Project1
-Horoscope project submission to drvscript
+Horoscope project submission to devscript
